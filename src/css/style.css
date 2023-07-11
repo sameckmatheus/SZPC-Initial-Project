@@ -9,3 +9,6 @@ body {
     justify-content: center;
 }
 
+.selecao-personagens {
+    display: flex;
+}
